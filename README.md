@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @47Cid
-- 👀 I’m interested in Network Security and Language Designing
+- 👀 I’m interested in Network Security, Functional Programming and Language Designing
 - 🌱 I’m currently learning Graphics Programming and Web Security.
 - 💞️ I’m looking to collaborate on a compiler project or anything interesting.
 
