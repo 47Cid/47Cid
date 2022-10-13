@@ -26,9 +26,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" />&nbsp;
 
 ### :hammer_and_wrench: Tools and Technologies :
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">          
 <i class="devicon-angularjs-plain"></i>
-
-<i class="devicon-cplusplus-line-wordmark colored"></i>
           
           
 <!---
