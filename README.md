@@ -1,6 +1,9 @@
 <div id="header" align="center">
   <img src="https://media1.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif?cid=ecf05e47b5jsbo5ci82fady72a6odu3d7vz6lrwub80nvn9j&rid=giphy.gif" width="100"/>
 </div>
+
+### About Me :
+
 - Hi, I’m @47Cid
 - I’m interested in Network Security, Functional Programming and Language Designing
 - I’m currently learning Graphics Programming and Web Security.
