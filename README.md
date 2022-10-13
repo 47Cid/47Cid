@@ -25,6 +25,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clojure/clojure-original.svg" width="40" height="40" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" />&nbsp;
 
+### :hammer_and_wrench: Tools and Technologies :
+<i class="devicon-angularjs-plain"></i>
+
 <i class="devicon-cplusplus-line-wordmark colored"></i>
           
           
