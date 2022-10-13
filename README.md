@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://codingcat.codes/wp-content/uploads/2017/08/l1-1.png" width="100"/>
+  <img src="https://media2.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif?cid=ecf05e475pg7qpqnqeatmwlu46vrix3p8wjgyxlm0jzbie5g&rid=giphy.gif" width="200"/>
 </div>
 
 ### 👨‍💻: About Me :
