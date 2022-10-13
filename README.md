@@ -2,6 +2,8 @@
   <img src="https://media2.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif?cid=ecf05e475pg7qpqnqeatmwlu46vrix3p8wjgyxlm0jzbie5g&rid=giphy.gif" width="200"/>
 </div>
 
+[![Repos Badge](https://badges.pufler.dev/repos/puf17640)](https://badges.pufler.dev)
+
 ### 👨‍💻: About Me :
 
 - Hey, I’m @47Cid
