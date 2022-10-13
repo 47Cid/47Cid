@@ -2,6 +2,16 @@
   <img src="https://media2.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif?cid=ecf05e475pg7qpqnqeatmwlu46vrix3p8wjgyxlm0jzbie5g&rid=giphy.gif" width="200"/>
 </div>
 
+
+
+### 👨‍💻: About Me :
+
+- Hey, I’m @47Cid
+- 🔭: I’m interested in Network Security, Functional Programming and Language Designing
+- 🌱  I’m currently learning Graphics Programming and Web Security.
+- 👷  I’m looking to collaborate on a compiler project or anything interesting.
+-  📫How to reach me:
+
 <div id="badges">
   <a href="https://www.linkedin.com/in/siddhant-kalgutkar-78b680229/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -10,14 +20,6 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-
-### 👨‍💻: About Me :
-
-- Hey, I’m @47Cid
-- 🔭: I’m interested in Network Security, Functional Programming and Language Designing
-- 🌱  I’m currently learning Graphics Programming and Web Security.
-- 👷  I’m looking to collaborate on a compiler project or anything interesting.
--  📫How to reach me: ...
 
 ### :hammer_and_wrench: Languages :
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" height="40" />&nbsp;
