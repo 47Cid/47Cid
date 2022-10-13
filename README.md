@@ -10,7 +10,6 @@
 - 🔭: I’m interested in Network Security, Functional Programming and Language Designing
 - 🌱  I’m currently learning Graphics Programming and Web Security.
 - 👷  I’m looking to collaborate on a compiler project or anything interesting.
--  📫How to reach me:
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/siddhant-kalgutkar-78b680229/">
@@ -50,7 +49,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40" height="40" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" width="40" height="40" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width="40" height="40" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" width="40" height="40" />&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Neovim-mark.svg/394px-Neovim-mark.svg.png" width="40" height="40" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40" />&nbsp;
 
 <!---
