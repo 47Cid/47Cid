@@ -7,9 +7,12 @@
 - I’m looking to collaborate on a compiler project or anything interesting.
 
 ### :hammer_and_wrench: Languages and Tools :
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clojure/clojure-original.svg" />
-         
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clojure/clojure-original.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clojure/clojure-original.svg" width="40" height="40" />
+
+<i class="devicon-cplusplus-line-wordmark colored"></i>
+          
           
 <!---
 47Cid/47Cid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
