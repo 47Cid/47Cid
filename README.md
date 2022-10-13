@@ -49,8 +49,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40" height="40" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" width="40" height="40" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width="40" height="40" />&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Neovim-mark.svg/394px-Neovim-mark.svg.png" width="40" height="25" />&nbsp;
-
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Neovim-mark.svg/394px-Neovim-mark.svg.png" width="25" height="40" />&nbsp;
+<img src="https://www.llvm.org/img/LLVM-Logo-Derivative-2.png" width="10" height="40" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40" />&nbsp;
 
 <!---
