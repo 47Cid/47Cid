@@ -8,7 +8,7 @@
 - 🔭: I’m interested in Network Security, Functional Programming and Language Designing
 - 🌱  I’m currently learning Graphics Programming and Web Security.
 - 👷  I’m looking to collaborate on a compiler project or anything interesting.
--  📫How to reach me: [![Gmail Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Gmail&logoColor=white)]
+-  📫How to reach me: [![Gmail Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=mail&logoColor=white)]
 
 ### :hammer_and_wrench: Languages :
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" width="40" height="40" />&nbsp;
