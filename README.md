@@ -52,6 +52,8 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Neovim-mark.svg/394px-Neovim-mark.svg.png" width="25" height="40" />&nbsp;
 <img src="https://www.llvm.org/img/LLVM-Logo-Derivative-2.png" width="50" height="30" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sdl/sdl-original.svg" width="40" height="40" />&nbsp;
 
 <!---
 47Cid/47Cid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
