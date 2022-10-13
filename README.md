@@ -4,9 +4,9 @@
 
 ### 👨‍💻: About Me :
 
-- Hi, I’m @47Cid
-- I’m interested in Network Security, Functional Programming and Language Designing
-- I’m currently learning Graphics Programming and Web Security.
+- Hey, I’m @47Cid
+- :telescope: I’m interested in Network Security, Functional Programming and Language Designing
+- :seedling:  I’m currently learning Graphics Programming and Web Security.
 - I’m looking to collaborate on a compiler project or anything interesting.
 
 ### :hammer_and_wrench: Languages :
@@ -19,6 +19,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="40" height="40" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ocaml/ocaml-original.svg" width="40" height="40" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" />&nbsp;
 
 <i class="devicon-cplusplus-line-wordmark colored"></i>
