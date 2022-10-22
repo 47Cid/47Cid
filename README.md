@@ -6,10 +6,7 @@
 
 ### 👨‍💻: About Me :
 
-- Hey, I’m @47Cid
-- 🔭: I’m interested in Network Security, Functional Programming and Language Designing
-- 🌱  I’m currently learning Graphics Programming and Web Security.
-- 👷  I’m looking to collaborate on a compiler project or anything interesting.
+I use Arch
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/siddhant-kalgutkar-78b680229/">
