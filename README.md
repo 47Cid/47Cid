@@ -6,7 +6,7 @@
 
 ### 👨‍💻: About Me :
 
-I use Arch
+I use Arch btw
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/siddhant-kalgutkar-78b680229/">
