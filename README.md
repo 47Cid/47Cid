@@ -12,20 +12,13 @@ I use Arch
   <a href="https://www.linkedin.com/in/siddhant-kalgutkar-78b680229/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://twitter.com/47cidd">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
 </div>
 
 ### :hammer_and_wrench: Languages :
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" height="40" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" width="40" height="40" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clojure/clojure-original.svg" width="40" height="40" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" width="40" height="40" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />&nbsp;
 
 ### :hammer_and_wrench: Tools and Technologies :
